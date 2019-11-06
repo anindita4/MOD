@@ -1,0 +1,16 @@
+1.Frontend Application(Angular or React or Asp.net MVC core) with docker implementation
+2.Middleware(Microservices architecture with API Gateway) with docker implementation
+Web Api Core
+Entity Framework Core
+3.Testing(Nunit for middleware and Jasmine and Protractor is for Angular or React)
+4.both the applications are deployed in IIS/Azure
+5.Implement CI/CD using Jenkins or Azure for Automatic build,test and deployment.
+6.both the projects source code should be place in GIT SCM
+7.Implment performance testing using Jmeter.
+
+1.UI/UX-work out on Front end using Angular or Asp.Net MVC Core
+2.Middleware and DB Intigration-work out develop services uisng Microservice architech and db activites with Entity framework core.
+3.Integrate Rest API services with Angular
+4.Testing(Nunit/XUnit for backend and Jasmine for Front end) and performance testing using Jmeter
+5.CI/CD using Jasmine or Azure Devops
+6.Docker implementation
