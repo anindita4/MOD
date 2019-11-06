@@ -8,9 +8,9 @@ Entity Framework Core
 6.both the projects source code should be place in GIT SCM
 7.Implment performance testing using Jmeter.
 
-1.UI/UX-work out on Front end using Angular or Asp.Net MVC Core
-2.Middleware and DB Intigration-work out develop services uisng Microservice architech and db activites with Entity framework core.
-3.Integrate Rest API services with Angular
-4.Testing(Nunit/XUnit for backend and Jasmine for Front end) and performance testing using Jmeter
-5.CI/CD using Jasmine or Azure Devops
-6.Docker implementation
+1.UI/UX-work out on Front end using Angular or Asp.Net MVC Core(1 week)
+2.Middleware and DB Intigration-work out develop services uisng Microservice architech and db activites with Entity framework core.(2nd week)
+3.Integrate Rest API services with Angular(3rd week)
+4.Testing(Nunit/XUnit for backend and Jasmine for Front end) and performance testing using Jmeter(3rd weed)
+5.CI/CD using Jasmine or Azure Devops(4th week)
+6.Docker implementation(4th week)
